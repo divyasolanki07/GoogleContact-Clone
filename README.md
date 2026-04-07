@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Google_Contacts_icon_%282022%29.svg/512px-Google_Contacts_icon_%282022%29.svg.png" width="100" alt="Google Contacts Logo" />
-
 # 📒 Google Contacts Clone
 
 **A fully component-based Google Contacts web app built with React + Vite**

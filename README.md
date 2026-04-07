@@ -1,5 +1,5 @@
 <div align="center">
-# 📒 Google Contacts Clone
+  📒 Google Contacts Clone
 
 **A fully component-based Google Contacts web app built with React + Vite**
 
